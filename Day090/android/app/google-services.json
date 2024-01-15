@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591557557898",
+    "project_id": "amel-cantik-project",
+    "storage_bucket": "amel-cantik-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591557557898:android:ee48c8f62a5d81b4633773",
+        "android_client_info": {
+          "package_name": "com.example.pix_wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsJPfYf0MDK8gs8nfjlS1scNETQ_E5fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
